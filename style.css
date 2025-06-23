@@ -2,10 +2,10 @@
 
 :root {
     --branco: white;
-    --cor-de-fundo: #00162E;
-    --fundo-senha: #00244D;
-    --fundo-texto: #001E40;
-    --borda: #0075FF;
+    --cor-de-fundo: #0D0B1E;
+    --fundo-senha: #1E0033;
+    --fundo-texto: #2A0051;
+    --borda: #7A00CC;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
@@ -149,7 +149,6 @@ label {
     display: flex;
     justify-content: space-between;
 }
-
 
 @media screen and (min-width: 768px) {
     .parametro-coluna__senha {
